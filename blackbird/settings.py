@@ -25,7 +25,7 @@ SECRET_KEY = 'y)oip(l^byjexm=k!ofu=@!r5gdp-b0+s0cbx_4yho7mh(zf%+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
